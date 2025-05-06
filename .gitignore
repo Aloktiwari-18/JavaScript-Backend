@@ -1,43 +1,5 @@
-# Node modules
-node_modules/
-
-# dotenv environment files
 .env
-.env.*         
-
-# Build output
-dist/
-build/
-.next/
-out/
-
-# Logs
-logs/
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# System files
-.DS_Store
-Thumbs.db
-
-# OS-specific files
-*.swp
-
-# IDE configs (optional but recommended)
-.vscode/
-.idea/
-*.sublime-workspace
-*.sublime-project
-
-# Coverage reports
-coverage/
-
-# Optional npm cache
-.npm/
-
-# lock files (optional - if you're using yarn instead of npm or vice versa)
-# Uncomment based on your setup
-# package-lock.json
-# yarn.lock
+node_modules
+.vscode
+dist
+*.env
